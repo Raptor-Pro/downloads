@@ -22,7 +22,7 @@ Keep the folder together and run `RaptorPro.exe`.
 
 ## Documentation
 
-Full handbook, settings reference and troubleshooting: <add your link>
+Full handbook, settings reference and troubleshooting: https://raptorpro-handbook.netlify.app
 
 ## Important
 
